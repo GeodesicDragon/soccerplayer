@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/TraitDef[defName="Wimp"]/degreeDatas/li/label</xpath>
+		<value>
+			  <label>Soccer player</label>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/TraitDef[defName="Wimp"]/degreeDatas/li/description</xpath>
+		<value>
+			  <description>As a former soccer player for a glitterworld league, {PAWN_nameDef} grew used to faking pain, especially if it meant getting a free penalty kick. Unfortunately, {PAWN_pronoun} has failed to realise that such a 'skill' is pretty much useless on the rim.</description>
+		</value>
+	</Operation>
+
+</Patch>

@@ -1,0 +1,7 @@
+Version 1.0.2 (October 6th 2022)
+
+* Mod is now compatible with the RimWorld 1.4 patch.
+
+Version 1.0.1 (January 13th 2022)
+
+* Initial release.
